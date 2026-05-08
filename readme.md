@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshith</h1>
-<h3 align="center">Full-Stack Developer | India</h3>
+<h3 align="center">Software Developer | India</h3>
 
 <p align="center">
 Passionate about building scalable applications and solving real-world problems through code.
@@ -18,17 +18,17 @@ Passionate about building scalable applications and solving real-world problems 
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 10px;"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px;"/>
 </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50" style="margin: 10px;"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin: 10px;"/>
 </a>
 </p>
